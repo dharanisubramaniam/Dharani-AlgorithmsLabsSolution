@@ -1,0 +1,2 @@
+module CurrencyDenominations {
+}
